@@ -11,8 +11,6 @@ package abstractioninheritancehomework;
  */
 public interface Sword extends AttackDevice {
 
-    public abstract void hit();
-
-    public abstract void miss();
+    public abstract void slice();
 
 }

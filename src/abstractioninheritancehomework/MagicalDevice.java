@@ -11,5 +11,5 @@ package abstractioninheritancehomework;
  */
 public interface MagicalDevice {
 
-    public abstract void magicalAbility();
+    public abstract void enchant();
 }

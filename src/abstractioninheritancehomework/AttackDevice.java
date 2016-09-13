@@ -11,5 +11,7 @@ package abstractioninheritancehomework;
  */
 public interface AttackDevice {
 
-    public abstract void attack();
+    public abstract void hit();
+
+    public abstract void miss();
 }

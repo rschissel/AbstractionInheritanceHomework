@@ -22,7 +22,7 @@ public class InvisibilityCap implements DisguiseTool {
     }
 
     @Override
-    public void magicalAbility() {
+    public void enchant() {
 
     }
 }
