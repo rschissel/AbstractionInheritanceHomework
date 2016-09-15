@@ -12,12 +12,12 @@ package abstractioninheritancehomework;
 public class InvisibilityCap implements DisguiseTool {
 
     @Override
-    public void hide() {
+    public final void hide() {
 
     }
 
     @Override
-    public void unHide() {
+    public final void unHide() {
 
     }
 
